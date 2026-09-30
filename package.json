@@ -1,0 +1,11 @@
+{
+  "name": "javascript-programming",
+  "version": "1.0.0",
+  "description": "JavaScript exercises and worked solutions from the ICT courses at Delhi College, Eastleigh, Nairobi",
+  "private": true,
+  "author": "Daniel Otieno Odero",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
