@@ -1,0 +1,51 @@
+/* Shared look for the DOM and Events tasks - Delhi College colours */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f3f5f9;
+  color: #1e2533;
+  margin: 0;
+  padding: 18px;
+}
+.card {
+  background: #ffffff;
+  border-top: 4px solid #c9a227;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(15, 35, 68, 0.15);
+  padding: 16px 20px;
+  max-width: 520px;
+}
+h1 {
+  color: #0f2344;
+  font-size: 22px;
+  margin: 0 0 8px;
+}
+p { margin: 6px 0; }
+label { display: block; font-weight: bold; margin: 10px 0 4px; }
+input, select, textarea {
+  font-size: 15px;
+  padding: 6px 8px;
+  border: 1px solid #b8c1d1;
+  border-radius: 5px;
+  width: 95%;
+}
+button {
+  background: #0f2344;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 14px;
+  margin: 10px 6px 0 0;
+  cursor: pointer;
+}
+button:hover { background: #22407a; }
+.result {
+  background: #fbf5e3;
+  border-left: 4px solid #c9a227;
+  padding: 8px 12px;
+  margin-top: 12px;
+  min-height: 20px;
+}
+.error { color: #b3261e; font-weight: bold; }
+.dark { background: #0f2344; color: #ffffff; }
+.dark h1 { color: #c9a227; }
