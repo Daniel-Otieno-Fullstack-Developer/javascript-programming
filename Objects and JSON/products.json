@@ -1,0 +1,10 @@
+{
+  "shop": "Delhi College Bookshop",
+  "vatRate": 0.16,
+  "products": [
+    { "code": "P01", "name": "Exercise book", "price": 65 },
+    { "code": "P02", "name": "Biro pen", "price": 20 },
+    { "code": "P03", "name": "Geometry set", "price": 380 },
+    { "code": "P04", "name": "Flash disk", "price": 1200 }
+  ]
+}
