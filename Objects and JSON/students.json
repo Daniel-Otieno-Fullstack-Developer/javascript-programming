@@ -1,0 +1,7 @@
+[
+  { "admNo": "DC101", "name": "Halima Noor", "course": "DICT", "marks": [78, 82, 69] },
+  { "admNo": "DC104", "name": "Kevin Mutua", "course": "CICT", "marks": [55, 61, 48] },
+  { "admNo": "DC107", "name": "Mercy Achieng", "course": "DICT", "marks": [91, 88, 94] },
+  { "admNo": "DC112", "name": "Omar Farah", "course": "CICT", "marks": [42, 38, 51] },
+  { "admNo": "DC118", "name": "Wanjiku Mwangi", "course": "DICT", "marks": [63, 70, 66] }
+]
